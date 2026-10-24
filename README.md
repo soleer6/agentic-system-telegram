@@ -1,6 +1,6 @@
-# Agentes por Telegram
+# Agentic System Telegram
 
-Controla tu PC con Windows desde el móvil a través de un bot de Telegram que trabaja con **Claude Code** y **Codex**,
+**Sistema de agentes por Telegram.** Controla tu PC con Windows desde el móvil a través de un bot de Telegram que trabaja con **Claude Code** y **Codex**,
 con modelos gratuitos de reserva, memoria compartida y un guardián que te pide permiso antes de cualquier acción peligrosa.
 
 ## Qué hace
