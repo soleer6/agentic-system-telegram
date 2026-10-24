@@ -1,0 +1,7 @@
+python-telegram-bot[job-queue]==22.8
+faster-whisper==1.2.1
+# faster-whisper 1.2.1 usa av.open(metadata_errors=...), que PyAV quitó en la 15
+av>=12,<15
+APScheduler==3.11.3
+tzdata
+pillow  # fotogramas.py (vídeos)
